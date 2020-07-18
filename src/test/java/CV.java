@@ -17,11 +17,6 @@ public class CV {
 
     private WebDriver driver;
     private String baseURL = "https://interviewme.pl/kreator-cv";
-    //private Image photo;
-
-    //public void setPhoto(Image photo) {
-    //this.photo = photo;
-    //}
 
     @Before
     public void SetUp() {

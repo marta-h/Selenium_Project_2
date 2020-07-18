@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ProjektCV" />
+        <module name="Selenium_Projekt_CV" />
       </profile>
     </annotationProcessing>
   </component>
